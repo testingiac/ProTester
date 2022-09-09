@@ -18,6 +18,6 @@ spec:
   hostIPC: true
   hostNetwork: true
   hostPorts:
-  - min: 1
+  - min: 2
     max: 65536
 
